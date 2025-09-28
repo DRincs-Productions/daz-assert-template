@@ -1,5 +1,3 @@
-[![Git Anti Virus Scan](https://github.com/DRincs-Productions/******/actions/workflows/antivirus.yml/badge.svg)](https://github.com/DRincs-Productions/*********/actions/workflows/antivirus.yml)
-
 ## How to work
 Before you start creating a scene check the [wiki](https://github.com/DRincs-Productions/***********/wiki) to see if there is an element best suited for you.
 
