@@ -1,5 +1,5 @@
 ## How to work
-Before you start creating a scene check the [wiki](https://github.com/DRincs-Productions/***********/wiki) to see if there is an element best suited for you.
+Before you start creating a scene check the [wiki](https://github.com/DRincs-Productions/daz-assert-ABFD-all-in-one/wiki) to see if there is an element best suited for you.
 
 
 ## Request new material
